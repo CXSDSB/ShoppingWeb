@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85001172-30f2-46da-9b2c-37447d54d5a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/ShoppingWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/config/JwtCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/config/SecurityCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/config/WebCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/controller/AdminCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/controller/AuthCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/controller/CartCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/controller/OrderCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/controller/PaymentCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/controller/ProductCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/controller/UserCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/dto/LoginReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/dto/OrderSummaryRespon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/dto/ProductRespon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/dto/RegisterReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/enums/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/enums/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/exception/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/model/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/model/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/repository/OrderRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/repository/ProductRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/repository/UserRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/service/CartSer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/service/OrderSer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/service/PaymentSer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/service/ProductSer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/service/UserSer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/utils/FileUploadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/utils/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/shoppingweb/utils/PasswordEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shoppingWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shoppingWeb.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wPZMyzGdn7xHEwqVlnqlpsKTB4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "javascript.nodejs.core.library.configured.version": "22.11.0",
+    "javascript.nodejs.core.library.typings.version": "22.10.1",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/.idea/src/shoppingweb" />
+      <recent name="$PROJECT_DIR$/.idea/libraries" />
+      <recent name="$PROJECT_DIR$/.idea/src" />
+      <recent name="$PROJECT_DIR$/.idea/src/controller" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-temurin-21.0.1-3183f394aec4-0854c697" />
+        <option value="jdk-21.0.2-temurin-21.0.2-3183f394aec4-22629b30" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85001172-30f2-46da-9b2c-37447d54d5a2" name="Changes" comment="" />
+      <created>1745945125798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745945125798</updated>
+      <workItem from="1745945128090" duration="6915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
